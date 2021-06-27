@@ -1,7 +1,7 @@
 # 期末專案 
 ## 程式的修改來源
 
-+ 參考陳鍾誠老師的專案(C1-c4)
++ 陳鍾誠老師的專案(C1-c4)
 
 ## 編譯器
 + 是一種電腦程式，它會將某種程式語言寫成的原始碼（原始語言）轉換成另一種程式語言（目標語言）。
@@ -12,7 +12,7 @@
 + 原始碼（source code）→ 預處理器（preprocessor）→ 編譯器（compiler）→ 組譯程式（assembler）→ 目的碼（object code）→ 連結器（linker）→ 執行檔（executables）
 ## 簡介 -- C4 編譯器
 + [C4](https://github.com/rswier/c4) 是 [Robert Swierczek](https://github.com/rswier/) 寫的一個小型 C 語言編譯器
-+ 原始碼都在 [c4.c](https://github.com/)
++ 原始碼都在 [c4.c](https://github.com/laiy790/sp109b/blob/main/final/C4.c)
 + C4 編譯器的用法
     ```
     gcc -m32 -o c4 c4.c  (you may need the -m32 option on 64bit machines)
