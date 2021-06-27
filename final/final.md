@@ -22,3 +22,4 @@
     ./c4 c4.c test/hello.c
     ./c4 c4.c c4.c test/hello.c
     ```
++ [C4 編譯器的語法](https://github.com/laiy790/sp109b/blob/main/final/C4語法.md)
